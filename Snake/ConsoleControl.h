@@ -7,13 +7,8 @@
 #define KB_SPACE 32
 #define KB_ESCAPE 27
 
-#define KB_P 112
-#define KB_J 106
-#define KB_M 109
-#define KB_N 110
-#define KB_U 117
-#define KB_C 99
-#define KB_R 114
+#define KB_Z 122
+#define KB_A 97
 
 #define KB_0 48
 #define KB_1 49

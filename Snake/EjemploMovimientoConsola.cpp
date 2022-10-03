@@ -5,7 +5,7 @@ float clamp(float n, float lower, float upper) {
     return std::max(lower, std::min(n, upper));
 }
 
-int main()
+/*int main()
 {
     int boardSize = 20;
 
@@ -53,4 +53,4 @@ int main()
         std::cout << "#";
     }
     
-}
+}*/
